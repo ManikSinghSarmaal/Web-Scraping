@@ -74,27 +74,8 @@ The project consists of two main parts:
     ```
 
 ## File Structure
+Please clone this repo and run this command in terminal `tree` to understand the directory structure 
 
-`
-web-scraping-project/
-│
-├── steam_scraper/
-│ ├── spiders/
-│ │ └── infinite_scroll.py
-│ ├── steam_best_sellers.csv
-│ ├── steam_bestsellers_ALL.pdf
-│ ├── csv_to_pdf.py
-│ └── settings.py
-│
-├── inshorts_scraper/
-│ ├── spiders/
-│ │ └── inshorts.py
-│ ├── inshorts_news.csv
-│ └── settings.py
-├── Images/
-├── requirements.txt
-└── README.md
-`
 ## Demo 
 ![CSV data as in steam_scraper/steam_bestsellers_ALL.csv](Images/steam_data.png)
 ## Contribution Guidelines
