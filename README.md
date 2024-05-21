@@ -74,6 +74,8 @@ The project consists of two main parts:
     ```
 
 ## File Structure
+
+`
 web-scraping-project/
 │
 ├── steam_scraper/
@@ -92,7 +94,7 @@ web-scraping-project/
 ├── Images/
 ├── requirements.txt
 └── README.md
-
+`
 ## Demo 
 ![CSV data as in steam_scraper/steam_bestsellers_ALL.csv](Images/steam_data.png)
 ## Contribution Guidelines
