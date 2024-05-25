@@ -18,7 +18,7 @@ The project consists of two main parts:
 - Saves the extracted data into a CSV file.
 
 ## Overview of a Web Scraper functioning
-![Flow diagram of a Scraping bot](Images/Web Scraper.png)
+![Flow diagram of a Scraping bot](Images/Flow.png)
 
 ## Setup Instructions
 
