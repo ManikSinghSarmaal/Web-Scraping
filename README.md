@@ -17,6 +17,9 @@ The project consists of two main parts:
 - Extracts news articles including titles, content, author, and timestamp.
 - Saves the extracted data into a CSV file.
 
+## Overview of a Web Scraper functioning
+![Flow diagram of a Scraping bot](Images/Web Scraper.png)
+
 ## Setup Instructions
 
 1. **Clone the Repository**
