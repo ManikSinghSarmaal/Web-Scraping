@@ -4,9 +4,16 @@ This project demonstrates web scraping using Scrapy to extract data from multipl
 
 ## Project Description
 
-The project consists of two main parts:
-1. **Steam Scraper**: Scrapes top-selling game data from the Steam platform.
-2. **Inshorts Scraper**: Scrapes news articles from Inshorts.
+The project consists of following main parts:
+1. **Reddit/subreddit data and comment and metadata extractor.
+2. **Steam Scraper**: Scrapes top-selling game data from the Steam platform.
+3. **Inshorts Scraper**: Scrapes news articles from Inshorts.
+
+### Reddit Scraper
+- A Scrapy spider designed to scrape posts and comments from a specified subreddit on `old.reddit.com`.
+- The spider extracts post titles, links, and comments, storing them in a structured format.
+
+
 
 ### Steam Scraper
 - Extracts data such as game name, game URL, image URL, release date, price, and review summary.
@@ -24,8 +31,8 @@ The project consists of two main parts:
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/yourusername/web-scraping-project.git
-    cd web-scraping-project
+    git clone https://github.com/ManikSinghSarmaal/Web-Scraping
+    cd Web-Scraping
     ```
 
 2. **Create and Activate a Virtual Environment**
