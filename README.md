@@ -10,7 +10,7 @@ The project consists of following main parts:
 3. **Inshorts Scraper**: Scrapes news articles from Inshorts.
 
 ### Reddit Scraper
-- A Scrapy spider designed to scrape posts and comments from a specified subreddit on `old.reddit.com`.
+- A Scrapy spider designed to scrape posts and comments from a specified subreddit on [https://old.reddit.com].
 - The spider extracts post titles, links, and comments, storing them in a structured format.
 
 
