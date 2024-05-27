@@ -66,7 +66,8 @@ The project consists of following main parts:
     ```bash
     scrapy crawl subreddit_data -o data.csv
     ```
-### Note - if you wish to use rotating proxy to prevent ban from website as request count increases, make your account on ScrapeOps and add your api key and uncomment some lines, for more informatiion on using scrapy-scrapeops-proxy-sdk refer this [https://github.com/ScrapeOps/scrapeops-scrapy-proxy-sdk#integrating-into-your-scrapy-project]
+### Note - 
+If you wish to use rotating proxy to prevent ban from website as request count increases, make your account on ScrapeOps and add your api key and uncomment some lines, for more informatiion on using scrapy-scrapeops-proxy-sdk refer this [https://github.com/ScrapeOps/scrapeops-scrapy-proxy-sdk#integrating-into-your-scrapy-project]
 
 
 ### Running the Steam Scraper
